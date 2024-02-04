@@ -87,21 +87,20 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title:
-      "Named Clearly: Created for Easy Recall, Less Memorising more Writing Tests",
+    title: "Intuitive Naming: Effortless Test Crafting, Minimize Memory Work",
     Svg: "🎭",
     description: (
       <>
-        Abstracting the complexities of Playwright into clearly named-to-purpose
-        functions, allowing testers and developers to write tests more
-        efficiently and effectively. Designed for instantaneous integration and
-        effortless recall, our library ensures your testing scripts are as
-        maintainable as they are memorable.
+        Dive into testing with names that speak for themselves, reducing the
+        need to memorize and allowing you to focus on crafting precise tests.
+        PlugAndPlaywright distills Playwright's complexity into functions named
+        for their exact purpose, streamlining the integration process and making
+        your scripts as unforgettable as they are easy to manage.
       </>
     ),
   },
   {
-    title: "Up to Date Documentation: Each Function Explained in Full. ",
+    title: "Comprehensive Guides: Every Function, Demystified ",
     Svg: "📖",
     description: (
       <>
@@ -114,15 +113,16 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title:
-      "Connect to Clarity: Speedy Testing, For Newbie and Seasoned Testers ",
+    title: "Seamless Integration: Testing Made Accessible for All",
     Svg: "🧪",
     description: (
       <>
-        Just look at the website you want to test, and write everything out with
-        clear language. For example - You want to check that heading so you'll
-        write <code>getHeading</code> With PlugAndPlaywright, stepping into the
-        spotlight of quality assurance is as simple as plug and play
+        Transform your testing strategy from complex to straightforward with
+        PlugAndPlaywright's clear, concise language. Whether you're verifying a
+        headline or navigating a webpage, our approach simplifies the process.
+        Perfect for both newcomers and experienced testers, PlugAndPlaywright
+        invites you to connect with clarity and elevate your quality assurance
+        to center stage, effortlessly.
       </>
     ),
   },
