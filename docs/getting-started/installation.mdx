@@ -4,23 +4,25 @@ import { TabsBasic } from "../../src/components/Tabs/TabsBasic";
 
 
 
-# Installation 🌶️
+# Installation 🌟
 
-Welcome to a titillating journey where testing meets tantalizing twists with `ForePlaywright`. Dive into a world where code caresses and assertions allure, making every test run a seductive dance of efficiency and precision. 
+Hey there, buddy! 🌟 Get ready to plug in and power up with plugandplaywright - your new best friend in the coding universe! 🚀 Imagine diving into a world where your code doesn't just run; it practically dances off the screen, turning every test into a thrilling adventure of precision and pizzazz. 🎉
 
-Ready to elevate your Playwright scripts to the realms of ecstasy? Let's set the stage for an automation saga that promises more thrills and less friction.
+## 🚀 Let's Spark Things Up - Quick Setup
 
-## 🚀 Quick Setup
+Jump right in with these simple steps to add some spark to your Playwright scripts! It's like giving your automation a supercharge of excitement:
+
+
 
 <TabsBasic   
-Tab1Label="npm" Tab1Content={`npm i foreplaywright`}
-Tab2Label="yarn" Tab2Content={`yarn add foreplaywright`}
-Tab3Label="pnpm" Tab3Content={`pnpm add foreplaywright`}/>
+Tab1Label="npm" Tab1Content={`npm i plugandplaywright`}
+Tab2Label="yarn" Tab2Content={`yarn add plugandplaywright`}
+Tab3Label="pnpm" Tab3Content={`pnpm add plugandplaywright`}/>
 
 
 
-Ensure you're already setup with Playwright:
-\
+And hey, let's make sure you're all set up with Playwright too:
+
 
 
 <TabsBasic   
@@ -30,14 +32,15 @@ Tab3Label="pnpm" Tab3Content={`pnpm create playwright`}/>
 
 
 
-# 🎭 Basic Charms
-ForePlaywright enchants your testing framework with spells like getText, getHeading, and clickLink, allowing you to interact with your web pages in a more intuitive and delightful manner.
+# 🎭  Basic Charms to Light Up Your Tests
+
+`plugandplaywright` is here to enchant your testing toolkit with some electrifying spells 🌩️ - think of `getText`, `getHeading`, and `clickLink` as your magic wands, letting you interact with your web pages in the most delightful way.
 
 ```jsx
 import { test, expect } from '@playwright/test';
 import { getText, getHeading, clickLink } from 'plugandplaywright';
 
-test('Seduce the DOM', async ({ page }) => {
+test('Checkout the DOM', async ({ page }) => {
   await page.goto('https://your-target-website.com/');
 
   // Whisper sweet nothings to your elements
@@ -45,19 +48,6 @@ test('Seduce the DOM', async ({ page }) => {
   await getHeading(page, "Greetings, mortal");
   await clickLink(page, "Follow me");
 });
-```
-
-
-## 💡 Advanced Teasing
-Unlock the full potential of your testing with advanced ForePlaywright techniques. Our documentation is your guide to mastering the art of playful automation.
-
-
-
-Embark on this bewitching adventure with ForePlaywright, where each line of code not only asserts but also flirts with your application, ensuring that your testing journey is as pleasurable as it is productive. Are you ready to be seduced by efficiency?
-
-```bash
-This introduction encapsulates the essence of `ForePlaywright` in a fun, engaging manner, outlining installation steps, basic usage, and a hint at more advanced features, all wrapped up in a playful tone that's sure to captivate your audience.
-
 ```
 
 

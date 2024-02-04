@@ -2,8 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const prism_react_renderer_1 = require("prism-react-renderer");
 const config = {
-    title: 'Welcome to the ForePlaywright Sensation!',
-    tagline: 'Simpler, sexier testing with Playwright. Easily memorised and maintained. ',
+    title: 'Welcome to plugandplaywright! Where you can easily write and maintain your testing',
+    tagline: 'Simple utility functions for end to end testing. ',
     favicon: 'img/logo.png',
     // Set the production url of your site here
     url: 'https://plugandplaywright.com',
@@ -66,7 +66,7 @@ const config = {
                 },
                 { to: '/docs/getting-started/installation', label: 'Installation 🔌', position: 'left' },
                 {
-                    href: 'https://github.com/lottie-logic/foreplaywright.com',
+                    href: 'https://github.com/lottie-logic/plugandplaywright',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -110,7 +110,7 @@ const config = {
         //         // },
         //         {
         //           label: 'GitHub',
-        //           href: 'https://github.com/lottie-logic/foreplaywright',
+        //           href: 'https://github.com/lottie-logic/plugandplaywright',
         //         },
         //       ],
         //     },
