@@ -87,34 +87,42 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Simplified Testing with Playwright",
+    title:
+      "Named Clearly: Created for Easy Recall, Less Memorising more Writing Tests",
     Svg: "🎭",
     description: (
       <>
-        Abstracting the complexities of Playwright, allowing testers and
-        developers to write tests more efficiently and effectively.
+        Abstracting the complexities of Playwright into clearly named-to-purpose
+        functions, allowing testers and developers to write tests more
+        efficiently and effectively. Designed for instantaneous integration and
+        effortless recall, our library ensures your testing scripts are as
+        maintainable as they are memorable.
       </>
     ),
   },
   {
-    title: " Rich Documentation",
+    title: "Up to Date Documentation: Each Function Explained in Full. ",
     Svg: "📖",
     description: (
       <>
         Comprehensive documentation that explains each feature, method, and
         option in detail. Handle common testing scenarios, and make the most of
-        Playwright's capabilities.
+        Playwright's capabilities. PlugAndPlaywright revolutionizes testing with
+        Playwright by offering a plug-in suite of utility functions that let you
+        play out your tests with precision and ease.
       </>
     ),
   },
   {
-    title: "Easy to Write Speedy Testing",
+    title:
+      "Connect to Clarity: Speedy Testing, For Newbie and Seasoned Testers ",
     Svg: "🧪",
     description: (
       <>
         Just look at the website you want to test, and write everything out with
-        clear language. I want to check that heading so I'll write{" "}
-        <code>getHeading</code>
+        clear language. For example - You want to check that heading so you'll
+        write <code>getHeading</code> With PlugAndPlaywright, stepping into the
+        spotlight of quality assurance is as simple as plug and play
       </>
     ),
   },

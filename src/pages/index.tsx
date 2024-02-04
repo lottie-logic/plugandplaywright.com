@@ -11,9 +11,9 @@ import HomepageFeatures from "../components/HomepageFeatures";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
+    <header className={clsx("hero hero--dark", styles.heroBanner)}>
       <div className="container">
-        <img height={"400px"} src="img/logo.png" />
+        <img height={"500px"} src="img/logo.png" />
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
@@ -23,7 +23,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/introduction"
           >
-            ⏱️ Start simplifying your E2E testing ⏱️
+            Plug In, Play Out: Your Ultimate Testing Suite Awaits
           </Link>
         </div>
       </div>
