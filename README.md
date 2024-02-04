@@ -4,7 +4,7 @@
 
 Dive into the world of testing with PlugAndPlaywright, where utility meets ingenuity, transforming your automation journey into an exhilarating adventure. Imagine a testing landscape where complexity is simplified, efficiency is key, and a touch of playfulness makes every task a delight. Ready to elevate your code interaction to an art form? Welcome aboard the PlugAndPlaywright express—where testing is not just streamlined, but a downright pleasure. 🔌💡 Gear up to supercharge your testing routine with flair!
 
-# Find the Manual [Here @ plugandplaywright.com](www.plugandplaywright.com)
+[Full Documentation Here @ plugandplaywright.com](https://www.plugandplaywright.com)
 
 - **Effortless Setup:** Kickstart your project with lightning speed. Just execute `npm i plugandplaywright` or `yarn add plugandplaywright` to inject excitement into your development process.
 - **Streamlined Syntax:** Wave goodbye to convoluted configurations. `import {getText} from 'plugandplaywright'` offers you intuitive testing at your fingertips.
@@ -63,3 +63,5 @@ Peruse our manual for comprehensive examples and instructions. From elementary s
 Join our circuit! Contribute insights, flag bugs, or pose inquiries. Your feedback is crucial as we endeavor to upgrade PlugAndPlaywright continually.
 
 Prepared to revamp your testing? Let’s embark on this electrifying voyage together!
+
+[Documentation](https://www.plugandplaywright.com)
