@@ -2,8 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const prism_react_renderer_1 = require("prism-react-renderer");
 const config = {
-    title: 'Simple Utility Functions for Your End to End Testing Suite. Effortless Testing Awaits: Just Plug In and Play Out. ',
-    tagline: 'Introducing the ultimate utility library for seamless testing with Playwright. Conduct comprehensive tests with the simplicity of a plug-and-play approach. Easily recall and maintain your testing scripts, ensuring a streamlined workflow that resonates with both novice and seasoned testers and lead the way in quality assurance. ',
+    title: 'plugandplaywright',
+    tagline: 'Simple Utility Functions for Your Playwright End to End Testing Suite. Effortless Testing Awaits: Just Plug In and Play Out. ',
     favicon: 'img/logo.png',
     // Set the production url of your site here
     url: 'https://plugandplaywright.com',
